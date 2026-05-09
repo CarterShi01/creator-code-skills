@@ -37,3 +37,7 @@ creator-code-skills/
 
 - `templates/SKILL_TEMPLATE.md` — standard skill definition format
 - `templates/INTERFACE_TEMPLATE.md` — module or service interface contract format
+
+## Methodology
+
+- [Quality and Cost Harness](docs/quality-and-cost-harness-20260509.md) — Engineering lessons from CreatorMesh: how to run AI coding agents under strict quality and token-cost constraints.
