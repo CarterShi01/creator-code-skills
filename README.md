@@ -42,3 +42,4 @@ creator-code-skills/
 
 - [Quality and Cost Harness](docs/quality-and-cost-harness-20260509.md) — Engineering lessons from CreatorMesh: how to run AI coding agents under strict quality and token-cost constraints.
 - [Project Memory and Context Brief](docs/project-memory-and-context-brief-20260510.md) — Reusable practices for preserving long-term project memory with versioned goal and progress documents, evidence-based progress maintenance, and context briefs for LLM handoff.
+- [Quality Harness Test Design for AI Coding](docs/quality-harness-testing-design-20260510-2.md) — General methodology for designing a layered test and verification system in AI-assisted coding projects: test layer design, Harness Tests, Verification Policy, soft/hard CI, and phased rollout.
