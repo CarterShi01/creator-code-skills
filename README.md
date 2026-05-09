@@ -41,3 +41,4 @@ creator-code-skills/
 ## Methodology
 
 - [Quality and Cost Harness](docs/quality-and-cost-harness-20260509.md) — Engineering lessons from CreatorMesh: how to run AI coding agents under strict quality and token-cost constraints.
+- [Project Memory and Context Brief](docs/project-memory-and-context-brief-20260510.md) — Reusable practices for preserving long-term project memory with versioned goal and progress documents, evidence-based progress maintenance, and context briefs for LLM handoff.
